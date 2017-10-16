@@ -28,14 +28,15 @@ Creates a new button next to the "Community hub" button, downloads a RIS file, i
   * Steam URL as "_URL_"
   * Also RIS download date as "_Accessed_" 
   
-  Steam Game site example, with extra RIS download button
-  <img src ="https://github.com/cmiltiadis/steampowered.ris/blob/master/naissance_steam_s.jpg"> 
+  
+ Steam Game site example, with extra RIS download button
+  ![Steam Game site example, with extra RIS download button](README_images/naissance_steam_s.jpg)
  
  Zotero info panel, after importing RIS file
-  <img src ="https://github.com/cmiltiadis/steampowered.ris/blob/master/naissance_zotero.jpg" align="center" height="350">
+  ![Steam Game site example, with extra RIS download button](README_images/naissance_zotero.jpg)
   
  Zotero game library view
- <img src="https://github.com/cmiltiadis/steampowered.ris/blob/master/Zotero%20game%20library.png"> 
+  ![Zotero game library view](README_images/zotero_game_library.png)
   
 ## Notice 
 * There is no "correct or orthodox" way for citing videogames and very few guidlines are available for that - it is especially tricky when one considers also non digital games. However this might be a first step towards some kind of normalization of game bibliography, or at least the need for videogame bibliography. 
