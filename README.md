@@ -1,4 +1,4 @@
-# Ludography / Steam Videogame Citation Info grabber
+# Ludography / Steam Videogame Citation Info Grabber
 Runs a browser script on game websites of Steam, that allows exporting a RIS file (that includes the bibliographical information of the game) in order to help add them in a bibliography catalogue and cite apps and videogames from steampowered.com
 Creates a new button next to the "Community hub" button, downloads a RIS file, importable in Bibliography management software.
 
@@ -33,6 +33,9 @@ Creates a new button next to the "Community hub" button, downloads a RIS file, i
  
  Zotero info panel, after importing RIS file
   <img src ="https://github.com/cmiltiadis/steampowered.ris/blob/master/naissance_zotero.jpg" align="center" height="350">
+  
+ Zotero game library view
+ <img src="https://github.com/cmiltiadis/steampowered.ris/blob/master/Zotero%20game%20library.png"> 
   
 ## Notice 
 * There is no "correct or orthodox" way for citing videogames and very few guidlines are available for that - it is especially tricky when one considers also non digital games. However this might be a first step towards some kind of normalization of game bibliography, or at least the need for videogame bibliography. 
