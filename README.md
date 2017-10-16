@@ -1,6 +1,5 @@
 # Ludography / Steam Videogame Citation Info Grabber
-Runs a browser script on game websites of Steam, that allows exporting a RIS file (that includes the bibliographical information of the game) in order to help add them in a bibliography catalogue and cite apps and videogames from steampowered.com
-Creates a new button next to the "Community hub" button, downloads a RIS file, importable in Bibliography management software.
+Runs a browser script on game websites of Steam, that allows exporting a RIS file (that includes the bibliographical information of the game) in order to help add them in a bibliography catalogue and cite apps and videogames from steampowered.com.
 
 ## Installation instructions: 
   1. Install a user script manager for your browser 
