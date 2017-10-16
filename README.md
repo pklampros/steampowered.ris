@@ -8,7 +8,7 @@ Creates a new button next to the "Community hub" button, downloads a RIS file, i
     * or Greasemonkey of Firefox - http://www.greasespot.net
   2. Import the script to the plugin
     * [Go directly to the script](steampowered.ris.user.js) and click RAW (at the top right) which should prompt you to install the script 
-    * or click on the plugin icon on your browser (next to address bar) and then "Add new script". There, copy paste the code from "steampowered.ris" file of this repository.
+    * or click on the plugin icon on your browser (next to address bar) and then "Add new script". There, copy paste the code from "steampowered.ris.user.js" file of this repository.
     
 ## What it does: 
 1. Upon visiting any game on the Steam website, the script will add a button on the top right, labled "EXPORT CITATION (RIS)". 
